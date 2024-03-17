@@ -1,2 +1,2 @@
-# Homework-5
-5. órához tartozó GitHub-ra feltöltendő házi feladat C# source code-ja
+# Megoldás
+Ha teljesen biztosra akarsz menni, legalább pár változó nevét írd át.
