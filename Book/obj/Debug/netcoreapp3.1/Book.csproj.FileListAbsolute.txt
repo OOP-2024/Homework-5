@@ -1,0 +1,14 @@
+C:\Users\reign\source\repos\ME-IIT-OOP-2024\hf-5-matyas-toth\Book\bin\Debug\netcoreapp3.1\Book.exe
+C:\Users\reign\source\repos\ME-IIT-OOP-2024\hf-5-matyas-toth\Book\bin\Debug\netcoreapp3.1\Book.deps.json
+C:\Users\reign\source\repos\ME-IIT-OOP-2024\hf-5-matyas-toth\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.json
+C:\Users\reign\source\repos\ME-IIT-OOP-2024\hf-5-matyas-toth\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.dev.json
+C:\Users\reign\source\repos\ME-IIT-OOP-2024\hf-5-matyas-toth\Book\bin\Debug\netcoreapp3.1\Book.dll
+C:\Users\reign\source\repos\ME-IIT-OOP-2024\hf-5-matyas-toth\Book\bin\Debug\netcoreapp3.1\Book.pdb
+C:\Users\reign\source\repos\ME-IIT-OOP-2024\hf-5-matyas-toth\Book\obj\Debug\netcoreapp3.1\Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reign\source\repos\ME-IIT-OOP-2024\hf-5-matyas-toth\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfoInputs.cache
+C:\Users\reign\source\repos\ME-IIT-OOP-2024\hf-5-matyas-toth\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfo.cs
+C:\Users\reign\source\repos\ME-IIT-OOP-2024\hf-5-matyas-toth\Book\obj\Debug\netcoreapp3.1\Book.csproj.CoreCompileInputs.cache
+C:\Users\reign\source\repos\ME-IIT-OOP-2024\hf-5-matyas-toth\Book\obj\Debug\netcoreapp3.1\Book.sourcelink.json
+C:\Users\reign\source\repos\ME-IIT-OOP-2024\hf-5-matyas-toth\Book\obj\Debug\netcoreapp3.1\Book.dll
+C:\Users\reign\source\repos\ME-IIT-OOP-2024\hf-5-matyas-toth\Book\obj\Debug\netcoreapp3.1\Book.pdb
+C:\Users\reign\source\repos\ME-IIT-OOP-2024\hf-5-matyas-toth\Book\obj\Debug\netcoreapp3.1\Book.genruntimeconfig.cache
